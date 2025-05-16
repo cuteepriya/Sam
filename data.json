@@ -139,5 +139,38 @@
         }
       }
     }
+  },
+  {
+    "id": "12th-fail",
+    "title": "12th Fail",
+    "desc": "12th Fail – The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+    "poster": "https://i.postimg.cc/yd3CT7Qj/12th-Fail.jpg",
+    "displayHome": true,
+    "links": {
+      "360p": {
+        "size": "700mb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/12th-fail-360-1",
+          "🚀 Direct-[Drive-link]": "https://tpi.li/12th-fail-360-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/12th-fail-360-3"
+        }
+      },
+      "720p": {
+        "size": "1.6gb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/12th-fail-720-1",
+          "🚀 Direct-[Drive-link]": "https://tpi.li/12th-fail-720-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/12th-fail-720-3"
+        }
+      },
+      "1080p": {
+        "size": "3gb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/12th-fail-1080-1",
+          "🚀 Direct-[Drive-link]": "https://tpi.li/12th-fail-1080-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/12th-fail-1080-3"
+        }
+      }
+    }
   }
 ]
