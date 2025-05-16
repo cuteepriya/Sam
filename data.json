@@ -931,5 +931,38 @@
         }
       }
     }
+  },
+  {
+    "id": "Crooked-Man",
+    "title": "The Crooked Man",
+    "desc": "Olivia returns home after six years, and a string of unusual deaths leads her to believe that she’s being haunted by a mysterious force from her childhood.",
+    "poster": "https://i.postimg.cc/d3njT6VM/Crooked-Man.jpg",
+    "displayHome": true,
+    "links": {
+      "360p": {
+        "size": "300mb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/Crooked-Man-360-1",
+          "🚀 GDFlix": "https://tpi.li/Crooked-Man-360-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/Crooked-Man-360-3"
+        }
+      },
+      "720p": {
+        "size": "750mb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/Crooked-Man-720-1",
+          "🚀 GDFlix": "https://tpi.li/Crooked-Man-720-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/Crooked-Man-720-3"
+        }
+      },
+      "1080p": {
+        "size": "1.8gb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/Crooked-Man-1080-1",
+          "🚀 GDFlix": "https://tpi.li/Crooked-Man-1080-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/Crooked-Man-1080-3"
+        }
+      }
+    }
   }
 ]
