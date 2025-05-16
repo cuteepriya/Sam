@@ -172,5 +172,38 @@
         }
       }
     }
+  },
+  {
+    "id": "Kalki",
+    "title": "Kalki 2898 AD",
+    "desc": "A modern-day avatar of Vishnu, a Hindu god, who is believed to have descended to earth to protect the world from evil forces.",
+    "poster": "https://i.postimg.cc/FKJWKpTW/Kalki-2898-AD-2024.webp",
+    "displayHome": true,
+    "links": {
+      "360p": {
+        "size": "550mb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/Kalki-360-1",
+          "🚀 Direct-[Drive-link]": "https://tpi.li/Kalki-360-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/Kalki-360-3"
+        }
+      },
+      "720p": {
+        "size": "1.5gb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/Kalki-720-1",
+          "🚀 Direct-[Drive-link]": "https://tpi.li/Kalki-720-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/Kalki-720-3"
+        }
+      },
+      "1080p": {
+        "size": "2.1gb",
+        "links": {
+          "🚀 Hub-Cloud [DD]": "https://tpi.li/Kalki-1080-1",
+          "🚀 Direct-[Drive-link]": "https://tpi.li/Kalki-1080-2",
+          "🚀 G-Drive [No-Login]": "https://tpi.li/Kalki-1080-3"
+        }
+      }
+    }
   }
 ]
